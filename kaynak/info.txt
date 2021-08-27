@@ -1,0 +1,17 @@
+SFH - Server Form Handler After the information is send the website sends them to a server to process the data. Phishy websites usuallu let the SFH field blank or redirects to another domain.
+
+Pop up Window - Legitimate websites don't use pop up windows to validate users' information.
+
+SSL final state - Reliable webpages use the HTTP protocol, on the other hand malicious websites may use a fake HTTP procotol or not use it at all.
+
+Request URL - Malicious websites usually load the page content from a different URL than the original website URL.
+
+URL of anchor - Malicious websites usually have links that point to different webpages.
+
+Web traffic - Legitimate websites usually have a lower number of visits than the malicious ones.
+
+URL length - URLs with length bigger than 75 characters are considered features from phishy websites.
+
+Age of domain - Websites with less than a year of existece are considered suspicious
+
+Having IP Address - The presence of IP address in the website URL is associated with malicious websites.
